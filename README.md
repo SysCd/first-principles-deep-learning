@@ -2,7 +2,7 @@
 
 This project explores the **core mathematical building blocks of neural networks** — starting entirely from scratch using NumPy, and explained from first principles.
 
-It’s designed to **demystify neural nets** by showing how every part works: from the dot product to gradient descent, all coded by hand.
+It’s designed to **demystify neural nets** by showing how every part works: from the dot product to gradient descent, all coded by hand with zero machine learning libraries.
 
 ---
 
@@ -24,11 +24,11 @@ It’s designed to **demystify neural nets** by showing how every part works: fr
 
 - Python 3
 - NumPy
-- Matplotlib (for optional visualizations)
+- (Optional) Matplotlib for plotting
 
 ---
 
-## 📂 Structure
+## 📂 Project Structure
 
 ```bash
 first-principles-deep-learning/
@@ -41,9 +41,11 @@ first-principles-deep-learning/
 ├── gradient_descent.py
 ├── chain_rule.py
 ├── simple_neural_net.py
+├── images/
+│   └── nuralnet.png
 └── README.md
 
----
+
 
 ## 🧠 Neural Network Structure
 
