@@ -6,6 +6,12 @@ It’s designed to **demystify neural nets** by showing how every part works: fr
 
 ---
 
+## 🧠 Neural Network Structure
+
+This diagram shows the complete flow of a neural network from data loading to evaluation.
+
+![Neural Network Structure](/images/neuralnet.png)
+
 ## 📚 Topics Covered
 
 | Concept               | Description                                 |
@@ -47,9 +53,5 @@ first-principles-deep-learning/
 
 
 
-## 🧠 Neural Network Structure
 
-This diagram shows the complete flow of a neural network from data loading to evaluation.
-
-![Neural Network Structure](/images/neuralnet.png)
 ```
