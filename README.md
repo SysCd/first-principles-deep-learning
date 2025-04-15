@@ -43,6 +43,7 @@ first-principles-deep-learning/
 ├── simple_neural_net.py
 └── README.md
 
+---
 
 ## 🧠 Neural Network Structure
 
