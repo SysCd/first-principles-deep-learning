@@ -42,7 +42,7 @@ first-principles-deep-learning/
 ├── chain_rule.py
 ├── simple_neural_net.py
 ├── images/
-│   └── nuralnet.png
+│   └── neuralnet.png
 └── README.md
 
 
@@ -51,5 +51,5 @@ first-principles-deep-learning/
 
 This diagram shows the complete flow of a neural network from data loading to evaluation.
 
-![Neural Network Structure](/images/nuralnet.png)
+![Neural Network Structure](/images/neuralnet.png)
 ```
