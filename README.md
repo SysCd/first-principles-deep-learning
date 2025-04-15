@@ -50,8 +50,4 @@ first-principles-deep-learning/
 ├── images/
 │   └── neuralnet.png
 └── README.md
-
-
-
-
 ```
