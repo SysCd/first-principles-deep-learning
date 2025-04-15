@@ -8,15 +8,15 @@ It’s designed to **demystify neural nets** by showing how every part works: fr
 
 ## 📚 Topics Covered
 
-| Concept               | Description |
-|----------------------|-------------|
-| ✅ Dot Product        | Foundation of every neuron's calculation |
-| ✅ Sigmoid & Tanh     | Activation functions + their derivatives |
+| Concept               | Description                                 |
+| --------------------- | ------------------------------------------- |
+| ✅ Dot Product        | Foundation of every neuron's calculation    |
+| ✅ Sigmoid & Tanh     | Activation functions + their derivatives    |
 | ✅ Softmax            | Probability distribution for classification |
-| ✅ Cross-Entropy Loss | How classification models learn |
-| ✅ MSE                | Error measurement for regression tasks |
-| ✅ Gradient Descent   | Core optimization method |
-| ✅ Chain Rule         | How backpropagation works mathematically |
+| ✅ Cross-Entropy Loss | How classification models learn             |
+| ✅ MSE                | Error measurement for regression tasks      |
+| ✅ Gradient Descent   | Core optimization method                    |
+| ✅ Chain Rule         | How backpropagation works mathematically    |
 
 ---
 
@@ -42,3 +42,11 @@ first-principles-deep-learning/
 ├── chain_rule.py
 ├── simple_neural_net.py
 └── README.md
+
+
+## 🧠 Neural Network Structure
+
+This diagram shows the complete flow of a neural network from data loading to evaluation.
+
+![Neural Network Structure](/images/nuralnet.png)
+```
