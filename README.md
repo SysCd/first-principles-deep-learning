@@ -2,8 +2,6 @@
 
 This project explores the **core mathematical building blocks of neural networks** — starting entirely from scratch using NumPy, and explained from first principles.
 
-It’s designed to **demystify neural nets** by showing how every part works: from the dot product to gradient descent, all coded by hand with zero machine learning libraries.
-
 ---
 
 ## 🧠 Neural Network Training Pipeline
