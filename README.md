@@ -8,7 +8,7 @@ This project explores the **core mathematical building blocks of neural networks
 
 This diagram shows the complete flow of a neural network from data loading to evaluation.
 
-![Neural Network Structure](/images/neuralnet.png)
+![Neural Network Structure](/images/flow.png)
 
 ## 📚 Topics Covered
 
