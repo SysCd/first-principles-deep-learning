@@ -6,7 +6,7 @@ It’s designed to **demystify neural nets** by showing how every part works: fr
 
 ---
 
-## 🧠 Neural Network Structure
+## 🧠 Neural Network Training Pipeline
 
 This diagram shows the complete flow of a neural network from data loading to evaluation.
 
